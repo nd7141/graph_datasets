@@ -20,7 +20,7 @@ each graph is a collection of nodes, edges, labels/attributes in simple python d
 ``GraphStruct`` also allows creating networkx graphs.  
     
     # read graphs
-    graphs = dataset.read_graphs(input + d + '/')
+    graphs = dataset.read_graphs(output + d + '/')
     
 We can additionally save graphs in ``graphml`` format, which will preserve node/edge labels/attributes.
  
