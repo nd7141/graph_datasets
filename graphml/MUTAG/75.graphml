@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="edge_label" attr.type="string" for="edge" id="d1" />
+  <key attr.name="node_label" attr.type="string" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="1423">
+      <data key="d0">0</data>
+    </node>
+    <node id="1424">
+      <data key="d0">0</data>
+    </node>
+    <node id="1432">
+      <data key="d0">0</data>
+    </node>
+    <node id="1425">
+      <data key="d0">0</data>
+    </node>
+    <node id="1426">
+      <data key="d0">0</data>
+    </node>
+    <node id="1430">
+      <data key="d0">0</data>
+    </node>
+    <node id="1427">
+      <data key="d0">0</data>
+    </node>
+    <node id="1428">
+      <data key="d0">0</data>
+    </node>
+    <node id="1420">
+      <data key="d0">1</data>
+    </node>
+    <node id="1429">
+      <data key="d0">0</data>
+    </node>
+    <node id="1436">
+      <data key="d0">1</data>
+    </node>
+    <node id="1431">
+      <data key="d0">0</data>
+    </node>
+    <node id="1433">
+      <data key="d0">1</data>
+    </node>
+    <node id="1434">
+      <data key="d0">2</data>
+    </node>
+    <node id="1435">
+      <data key="d0">2</data>
+    </node>
+    <node id="1418">
+      <data key="d0">2</data>
+    </node>
+    <node id="1419">
+      <data key="d0">2</data>
+    </node>
+    <node id="1421">
+      <data key="d0">2</data>
+    </node>
+    <node id="1422">
+      <data key="d0">2</data>
+    </node>
+    <edge source="1423" target="1424">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1423" target="1432">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1424" target="1425">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1432" target="1431">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1425" target="1426">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1425" target="1430">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1426" target="1427">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1430" target="1429">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1430" target="1431">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1427" target="1428">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1427" target="1420">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="1428" target="1429">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1428" target="1436">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="1420" target="1421">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="1420" target="1422">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="1436" target="1418">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="1436" target="1419">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="1431" target="1433">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="1433" target="1434">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="1433" target="1435">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>

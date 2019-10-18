@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="edge_label" attr.type="string" for="edge" id="d1" />
+  <key attr.name="node_label" attr.type="string" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="1864">
+      <data key="d0">0</data>
+    </node>
+    <node id="1865">
+      <data key="d0">2</data>
+    </node>
+    <node id="1866">
+      <data key="d0">0</data>
+    </node>
+    <node id="1867">
+      <data key="d0">0</data>
+    </node>
+    <node id="1860">
+      <data key="d0">0</data>
+    </node>
+    <node id="1868">
+      <data key="d0">0</data>
+    </node>
+    <node id="1869">
+      <data key="d0">0</data>
+    </node>
+    <node id="1859">
+      <data key="d0">0</data>
+    </node>
+    <node id="1861">
+      <data key="d0">1</data>
+    </node>
+    <node id="1862">
+      <data key="d0">2</data>
+    </node>
+    <node id="1863">
+      <data key="d0">2</data>
+    </node>
+    <edge source="1864" target="1865">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="1865" target="1866">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="1866" target="1867">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1866" target="1860">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1867" target="1868">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1860" target="1859">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1860" target="1861">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="1868" target="1869">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1869" target="1859">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1861" target="1862">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="1861" target="1863">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>

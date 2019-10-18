@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="edge_label" attr.type="string" for="edge" id="d1" />
+  <key attr.name="node_label" attr.type="string" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="1842">
+      <data key="d0">0</data>
+    </node>
+    <node id="1843">
+      <data key="d0">0</data>
+    </node>
+    <node id="1836">
+      <data key="d0">0</data>
+    </node>
+    <node id="1844">
+      <data key="d0">0</data>
+    </node>
+    <node id="1830">
+      <data key="d0">0</data>
+    </node>
+    <node id="1841">
+      <data key="d0">0</data>
+    </node>
+    <node id="1831">
+      <data key="d0">0</data>
+    </node>
+    <node id="1835">
+      <data key="d0">0</data>
+    </node>
+    <node id="1832">
+      <data key="d0">0</data>
+    </node>
+    <node id="1840">
+      <data key="d0">0</data>
+    </node>
+    <node id="1833">
+      <data key="d0">0</data>
+    </node>
+    <node id="1834">
+      <data key="d0">0</data>
+    </node>
+    <node id="1837">
+      <data key="d0">1</data>
+    </node>
+    <node id="1838">
+      <data key="d0">2</data>
+    </node>
+    <node id="1839">
+      <data key="d0">2</data>
+    </node>
+    <edge source="1842" target="1843">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1842" target="1836">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1843" target="1844">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1836" target="1835">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1844" target="1830">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1844" target="1841">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="1830" target="1831">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1830" target="1835">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1841" target="1840">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="1831" target="1832">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1831" target="1840">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="1835" target="1834">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1832" target="1833">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1833" target="1834">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1834" target="1837">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="1837" target="1838">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="1837" target="1839">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>

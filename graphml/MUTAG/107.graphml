@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="edge_label" attr.type="string" for="edge" id="d1" />
+  <key attr.name="node_label" attr.type="string" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="2011">
+      <data key="d0">0</data>
+    </node>
+    <node id="2012">
+      <data key="d0">0</data>
+    </node>
+    <node id="2016">
+      <data key="d0">0</data>
+    </node>
+    <node id="2013">
+      <data key="d0">0</data>
+    </node>
+    <node id="2014">
+      <data key="d0">0</data>
+    </node>
+    <node id="2018">
+      <data key="d0">0</data>
+    </node>
+    <node id="2015">
+      <data key="d0">0</data>
+    </node>
+    <node id="2017">
+      <data key="d0">1</data>
+    </node>
+    <node id="2019">
+      <data key="d0">0</data>
+    </node>
+    <node id="2023">
+      <data key="d0">0</data>
+    </node>
+    <node id="2020">
+      <data key="d0">0</data>
+    </node>
+    <node id="2021">
+      <data key="d0">0</data>
+    </node>
+    <node id="2022">
+      <data key="d0">0</data>
+    </node>
+    <node id="2024">
+      <data key="d0">1</data>
+    </node>
+    <node id="2025">
+      <data key="d0">2</data>
+    </node>
+    <node id="2026">
+      <data key="d0">2</data>
+    </node>
+    <edge source="2011" target="2012">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="2011" target="2016">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="2012" target="2013">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="2016" target="2015">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="2013" target="2014">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="2013" target="2018">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="2014" target="2015">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="2018" target="2019">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="2018" target="2023">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="2015" target="2017">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="2019" target="2020">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="2023" target="2022">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="2020" target="2021">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="2021" target="2022">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="2021" target="2024">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="2024" target="2025">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="2024" target="2026">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>

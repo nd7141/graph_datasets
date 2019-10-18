@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="edge_label" attr.type="string" for="edge" id="d1" />
+  <key attr.name="node_label" attr.type="string" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="1870">
+      <data key="d0">0</data>
+    </node>
+    <node id="1871">
+      <data key="d0">0</data>
+    </node>
+    <node id="1875">
+      <data key="d0">0</data>
+    </node>
+    <node id="1872">
+      <data key="d0">0</data>
+    </node>
+    <node id="1873">
+      <data key="d0">0</data>
+    </node>
+    <node id="1874">
+      <data key="d0">0</data>
+    </node>
+    <node id="1876">
+      <data key="d0">0</data>
+    </node>
+    <node id="1877">
+      <data key="d0">0</data>
+    </node>
+    <node id="1878">
+      <data key="d0">0</data>
+    </node>
+    <node id="1879">
+      <data key="d0">2</data>
+    </node>
+    <node id="1880">
+      <data key="d0">0</data>
+    </node>
+    <node id="1881">
+      <data key="d0">0</data>
+    </node>
+    <node id="1885">
+      <data key="d0">0</data>
+    </node>
+    <node id="1882">
+      <data key="d0">0</data>
+    </node>
+    <node id="1883">
+      <data key="d0">0</data>
+    </node>
+    <node id="1884">
+      <data key="d0">0</data>
+    </node>
+    <node id="1886">
+      <data key="d0">1</data>
+    </node>
+    <node id="1887">
+      <data key="d0">2</data>
+    </node>
+    <node id="1888">
+      <data key="d0">2</data>
+    </node>
+    <edge source="1870" target="1871">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1870" target="1875">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1871" target="1872">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1875" target="1874">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1872" target="1873">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1873" target="1874">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1873" target="1876">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="1876" target="1877">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="1877" target="1878">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="1878" target="1879">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="1878" target="1880">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="1880" target="1881">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1880" target="1885">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1881" target="1882">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1885" target="1884">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1882" target="1883">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1883" target="1884">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1883" target="1886">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="1886" target="1887">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="1886" target="1888">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>

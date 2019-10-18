@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="edge_label" attr.type="string" for="edge" id="d1" />
+  <key attr.name="node_label" attr.type="string" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="345">
+      <data key="d0">0</data>
+    </node>
+    <node id="346">
+      <data key="d0">0</data>
+    </node>
+    <node id="350">
+      <data key="d0">0</data>
+    </node>
+    <node id="347">
+      <data key="d0">0</data>
+    </node>
+    <node id="348">
+      <data key="d0">0</data>
+    </node>
+    <node id="349">
+      <data key="d0">0</data>
+    </node>
+    <node id="354">
+      <data key="d0">0</data>
+    </node>
+    <node id="351">
+      <data key="d0">0</data>
+    </node>
+    <node id="352">
+      <data key="d0">0</data>
+    </node>
+    <node id="353">
+      <data key="d0">0</data>
+    </node>
+    <node id="339">
+      <data key="d0">0</data>
+    </node>
+    <node id="332">
+      <data key="d0">0</data>
+    </node>
+    <node id="333">
+      <data key="d0">0</data>
+    </node>
+    <node id="334">
+      <data key="d0">0</data>
+    </node>
+    <node id="338">
+      <data key="d0">0</data>
+    </node>
+    <node id="335">
+      <data key="d0">0</data>
+    </node>
+    <node id="336">
+      <data key="d0">0</data>
+    </node>
+    <node id="337">
+      <data key="d0">0</data>
+    </node>
+    <node id="341">
+      <data key="d0">0</data>
+    </node>
+    <node id="340">
+      <data key="d0">0</data>
+    </node>
+    <node id="342">
+      <data key="d0">1</data>
+    </node>
+    <node id="343">
+      <data key="d0">2</data>
+    </node>
+    <node id="344">
+      <data key="d0">2</data>
+    </node>
+    <edge source="345" target="346">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="345" target="350">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="346" target="347">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="350" target="349">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="347" target="348">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="348" target="349">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="348" target="354">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="349" target="351">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="354" target="353">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="354" target="332">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="351" target="352">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="352" target="353">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="353" target="339">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="339" target="338">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="339" target="340">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="332" target="333">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="333" target="334">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="333" target="338">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="334" target="335">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="338" target="337">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="335" target="336">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="336" target="337">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="337" target="341">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="341" target="340">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="341" target="342">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="342" target="343">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="342" target="344">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>

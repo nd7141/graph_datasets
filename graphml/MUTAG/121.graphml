@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="edge_label" attr.type="string" for="edge" id="d1" />
+  <key attr.name="node_label" attr.type="string" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="2270">
+      <data key="d0">0</data>
+    </node>
+    <node id="2271">
+      <data key="d0">0</data>
+    </node>
+    <node id="2275">
+      <data key="d0">0</data>
+    </node>
+    <node id="2272">
+      <data key="d0">0</data>
+    </node>
+    <node id="2273">
+      <data key="d0">0</data>
+    </node>
+    <node id="2274">
+      <data key="d0">0</data>
+    </node>
+    <node id="2266">
+      <data key="d0">1</data>
+    </node>
+    <node id="2276">
+      <data key="d0">1</data>
+    </node>
+    <node id="2277">
+      <data key="d0">0</data>
+    </node>
+    <node id="2278">
+      <data key="d0">0</data>
+    </node>
+    <node id="2265">
+      <data key="d0">0</data>
+    </node>
+    <node id="2279">
+      <data key="d0">0</data>
+    </node>
+    <node id="2280">
+      <data key="d0">0</data>
+    </node>
+    <node id="2281">
+      <data key="d0">0</data>
+    </node>
+    <node id="2267">
+      <data key="d0">1</data>
+    </node>
+    <node id="2268">
+      <data key="d0">2</data>
+    </node>
+    <node id="2269">
+      <data key="d0">2</data>
+    </node>
+    <edge source="2270" target="2271">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="2270" target="2275">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="2271" target="2272">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="2275" target="2274">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="2272" target="2273">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="2273" target="2274">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="2273" target="2266">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="2274" target="2276">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="2266" target="2265">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="2276" target="2277">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="2277" target="2278">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="2277" target="2265">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="2278" target="2279">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="2265" target="2281">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="2279" target="2280">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="2280" target="2281">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="2281" target="2267">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="2267" target="2268">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="2267" target="2269">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>

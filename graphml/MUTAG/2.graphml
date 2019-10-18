@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="edge_label" attr.type="string" for="edge" id="d1" />
+  <key attr.name="node_label" attr.type="string" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="31">
+      <data key="d0">0</data>
+    </node>
+    <node id="32">
+      <data key="d0">0</data>
+    </node>
+    <node id="36">
+      <data key="d0">0</data>
+    </node>
+    <node id="33">
+      <data key="d0">0</data>
+    </node>
+    <node id="34">
+      <data key="d0">0</data>
+    </node>
+    <node id="35">
+      <data key="d0">0</data>
+    </node>
+    <node id="43">
+      <data key="d0">0</data>
+    </node>
+    <node id="37">
+      <data key="d0">0</data>
+    </node>
+    <node id="38">
+      <data key="d0">0</data>
+    </node>
+    <node id="42">
+      <data key="d0">0</data>
+    </node>
+    <node id="39">
+      <data key="d0">0</data>
+    </node>
+    <node id="40">
+      <data key="d0">0</data>
+    </node>
+    <node id="41">
+      <data key="d0">0</data>
+    </node>
+    <node id="46">
+      <data key="d0">0</data>
+    </node>
+    <node id="44">
+      <data key="d0">0</data>
+    </node>
+    <node id="45">
+      <data key="d0">0</data>
+    </node>
+    <node id="47">
+      <data key="d0">1</data>
+    </node>
+    <node id="48">
+      <data key="d0">2</data>
+    </node>
+    <node id="49">
+      <data key="d0">2</data>
+    </node>
+    <edge source="31" target="32">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="31" target="36">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="32" target="33">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="36" target="35">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="33" target="34">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="34" target="35">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="34" target="43">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="35" target="37">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="43" target="42">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="43" target="44">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="37" target="38">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="37" target="42">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="38" target="39">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="42" target="41">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="39" target="40">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="40" target="41">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="41" target="46">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="46" target="45">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="44" target="45">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="44" target="47">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="47" target="48">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="47" target="49">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>

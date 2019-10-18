@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="edge_label" attr.type="string" for="edge" id="d1" />
+  <key attr.name="node_label" attr.type="string" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="201">
+      <data key="d0">0</data>
+    </node>
+    <node id="202">
+      <data key="d0">1</data>
+    </node>
+    <node id="203">
+      <data key="d0">0</data>
+    </node>
+    <node id="210">
+      <data key="d0">1</data>
+    </node>
+    <node id="204">
+      <data key="d0">0</data>
+    </node>
+    <node id="208">
+      <data key="d0">0</data>
+    </node>
+    <node id="205">
+      <data key="d0">0</data>
+    </node>
+    <node id="206">
+      <data key="d0">0</data>
+    </node>
+    <node id="211">
+      <data key="d0">1</data>
+    </node>
+    <node id="207">
+      <data key="d0">0</data>
+    </node>
+    <node id="209">
+      <data key="d0">0</data>
+    </node>
+    <node id="212">
+      <data key="d0">2</data>
+    </node>
+    <node id="213">
+      <data key="d0">2</data>
+    </node>
+    <edge source="201" target="202">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="202" target="203">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="202" target="210">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="203" target="204">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="203" target="208">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="210" target="209">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="204" target="205">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="208" target="207">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="208" target="209">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="205" target="206">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="205" target="211">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="206" target="207">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="211" target="212">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="211" target="213">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>

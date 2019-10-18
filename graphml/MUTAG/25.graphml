@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="edge_label" attr.type="string" for="edge" id="d1" />
+  <key attr.name="node_label" attr.type="string" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="473">
+      <data key="d0">0</data>
+    </node>
+    <node id="474">
+      <data key="d0">0</data>
+    </node>
+    <node id="478">
+      <data key="d0">0</data>
+    </node>
+    <node id="475">
+      <data key="d0">0</data>
+    </node>
+    <node id="476">
+      <data key="d0">0</data>
+    </node>
+    <node id="494">
+      <data key="d0">1</data>
+    </node>
+    <node id="477">
+      <data key="d0">0</data>
+    </node>
+    <node id="491">
+      <data key="d0">1</data>
+    </node>
+    <node id="479">
+      <data key="d0">0</data>
+    </node>
+    <node id="480">
+      <data key="d0">0</data>
+    </node>
+    <node id="484">
+      <data key="d0">0</data>
+    </node>
+    <node id="481">
+      <data key="d0">0</data>
+    </node>
+    <node id="482">
+      <data key="d0">0</data>
+    </node>
+    <node id="483">
+      <data key="d0">0</data>
+    </node>
+    <node id="488">
+      <data key="d0">1</data>
+    </node>
+    <node id="485">
+      <data key="d0">1</data>
+    </node>
+    <node id="486">
+      <data key="d0">2</data>
+    </node>
+    <node id="487">
+      <data key="d0">2</data>
+    </node>
+    <node id="489">
+      <data key="d0">2</data>
+    </node>
+    <node id="490">
+      <data key="d0">2</data>
+    </node>
+    <node id="492">
+      <data key="d0">2</data>
+    </node>
+    <node id="493">
+      <data key="d0">2</data>
+    </node>
+    <node id="495">
+      <data key="d0">2</data>
+    </node>
+    <node id="496">
+      <data key="d0">2</data>
+    </node>
+    <edge source="473" target="474">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="473" target="478">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="474" target="475">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="478" target="477">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="478" target="479">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="475" target="476">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="475" target="494">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="476" target="477">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="476" target="491">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="494" target="495">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="494" target="496">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="491" target="492">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="491" target="493">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="479" target="480">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="479" target="484">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="480" target="481">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="484" target="483">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="484" target="485">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="481" target="482">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="482" target="483">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="482" target="488">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="488" target="489">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="488" target="490">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="485" target="486">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="485" target="487">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>

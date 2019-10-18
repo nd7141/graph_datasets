@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="edge_label" attr.type="string" for="edge" id="d1" />
+  <key attr.name="node_label" attr.type="string" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="1963">
+      <data key="d0">0</data>
+    </node>
+    <node id="1964">
+      <data key="d0">0</data>
+    </node>
+    <node id="1956">
+      <data key="d0">0</data>
+    </node>
+    <node id="1965">
+      <data key="d0">0</data>
+    </node>
+    <node id="1966">
+      <data key="d0">0</data>
+    </node>
+    <node id="1954">
+      <data key="d0">0</data>
+    </node>
+    <node id="1967">
+      <data key="d0">0</data>
+    </node>
+    <node id="1952">
+      <data key="d0">0</data>
+    </node>
+    <node id="1953">
+      <data key="d0">0</data>
+    </node>
+    <node id="1960">
+      <data key="d0">1</data>
+    </node>
+    <node id="1955">
+      <data key="d0">0</data>
+    </node>
+    <node id="1957">
+      <data key="d0">1</data>
+    </node>
+    <node id="1958">
+      <data key="d0">2</data>
+    </node>
+    <node id="1959">
+      <data key="d0">2</data>
+    </node>
+    <node id="1961">
+      <data key="d0">2</data>
+    </node>
+    <node id="1962">
+      <data key="d0">2</data>
+    </node>
+    <edge source="1963" target="1964">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1963" target="1956">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1964" target="1965">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1956" target="1955">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1965" target="1966">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1965" target="1954">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1966" target="1967">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1954" target="1953">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1954" target="1955">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1967" target="1952">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1952" target="1953">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1953" target="1960">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="1960" target="1961">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="1960" target="1962">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="1955" target="1957">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="1957" target="1958">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="1957" target="1959">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>

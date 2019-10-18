@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="edge_label" attr.type="string" for="edge" id="d1" />
+  <key attr.name="node_label" attr.type="string" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="1659">
+      <data key="d0">0</data>
+    </node>
+    <node id="1650">
+      <data key="d0">0</data>
+    </node>
+    <node id="1654">
+      <data key="d0">0</data>
+    </node>
+    <node id="1651">
+      <data key="d0">0</data>
+    </node>
+    <node id="1652">
+      <data key="d0">0</data>
+    </node>
+    <node id="1658">
+      <data key="d0">3</data>
+    </node>
+    <node id="1653">
+      <data key="d0">0</data>
+    </node>
+    <node id="1655">
+      <data key="d0">1</data>
+    </node>
+    <node id="1656">
+      <data key="d0">2</data>
+    </node>
+    <node id="1657">
+      <data key="d0">2</data>
+    </node>
+    <edge source="1659" target="1650">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1659" target="1654">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1650" target="1651">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1654" target="1653">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1654" target="1655">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="1651" target="1652">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1651" target="1658">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="1652" target="1653">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1655" target="1656">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="1655" target="1657">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>

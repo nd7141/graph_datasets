@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="edge_label" attr.type="string" for="edge" id="d1" />
+  <key attr.name="node_label" attr.type="string" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="1239">
+      <data key="d0">0</data>
+    </node>
+    <node id="1240">
+      <data key="d0">0</data>
+    </node>
+    <node id="1241">
+      <data key="d0">0</data>
+    </node>
+    <node id="1242">
+      <data key="d0">0</data>
+    </node>
+    <node id="1246">
+      <data key="d0">0</data>
+    </node>
+    <node id="1243">
+      <data key="d0">0</data>
+    </node>
+    <node id="1244">
+      <data key="d0">0</data>
+    </node>
+    <node id="1245">
+      <data key="d0">0</data>
+    </node>
+    <node id="1247">
+      <data key="d0">1</data>
+    </node>
+    <node id="1248">
+      <data key="d0">2</data>
+    </node>
+    <node id="1249">
+      <data key="d0">2</data>
+    </node>
+    <edge source="1239" target="1240">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="1240" target="1241">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="1241" target="1242">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1241" target="1246">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1242" target="1243">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1246" target="1245">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1243" target="1244">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1244" target="1245">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1244" target="1247">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="1247" target="1248">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="1247" target="1249">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>

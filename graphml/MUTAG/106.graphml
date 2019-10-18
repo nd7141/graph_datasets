@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="edge_label" attr.type="string" for="edge" id="d1" />
+  <key attr.name="node_label" attr.type="string" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="1999">
+      <data key="d0">0</data>
+    </node>
+    <node id="2000">
+      <data key="d0">0</data>
+    </node>
+    <node id="2001">
+      <data key="d0">2</data>
+    </node>
+    <node id="2002">
+      <data key="d0">0</data>
+    </node>
+    <node id="2003">
+      <data key="d0">0</data>
+    </node>
+    <node id="2007">
+      <data key="d0">0</data>
+    </node>
+    <node id="2004">
+      <data key="d0">0</data>
+    </node>
+    <node id="2005">
+      <data key="d0">0</data>
+    </node>
+    <node id="2006">
+      <data key="d0">0</data>
+    </node>
+    <node id="2008">
+      <data key="d0">1</data>
+    </node>
+    <node id="2009">
+      <data key="d0">2</data>
+    </node>
+    <node id="2010">
+      <data key="d0">2</data>
+    </node>
+    <edge source="1999" target="2000">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="2000" target="2001">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="2001" target="2002">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="2002" target="2003">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="2002" target="2007">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="2003" target="2004">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="2007" target="2006">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="2007" target="2008">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="2004" target="2005">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="2005" target="2006">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="2008" target="2009">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="2008" target="2010">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>

@@ -1,0 +1,169 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="edge_label" attr.type="string" for="edge" id="d1" />
+  <key attr.name="node_label" attr.type="string" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="1332">
+      <data key="d0">0</data>
+    </node>
+    <node id="1333">
+      <data key="d0">0</data>
+    </node>
+    <node id="1341">
+      <data key="d0">0</data>
+    </node>
+    <node id="1334">
+      <data key="d0">0</data>
+    </node>
+    <node id="1335">
+      <data key="d0">0</data>
+    </node>
+    <node id="1339">
+      <data key="d0">0</data>
+    </node>
+    <node id="1336">
+      <data key="d0">0</data>
+    </node>
+    <node id="1354">
+      <data key="d0">0</data>
+    </node>
+    <node id="1337">
+      <data key="d0">0</data>
+    </node>
+    <node id="1351">
+      <data key="d0">0</data>
+    </node>
+    <node id="1338">
+      <data key="d0">0</data>
+    </node>
+    <node id="1347">
+      <data key="d0">0</data>
+    </node>
+    <node id="1340">
+      <data key="d0">0</data>
+    </node>
+    <node id="1345">
+      <data key="d0">0</data>
+    </node>
+    <node id="1342">
+      <data key="d0">0</data>
+    </node>
+    <node id="1343">
+      <data key="d0">0</data>
+    </node>
+    <node id="1344">
+      <data key="d0">0</data>
+    </node>
+    <node id="1348">
+      <data key="d0">1</data>
+    </node>
+    <node id="1346">
+      <data key="d0">0</data>
+    </node>
+    <node id="1349">
+      <data key="d0">2</data>
+    </node>
+    <node id="1350">
+      <data key="d0">2</data>
+    </node>
+    <node id="1352">
+      <data key="d0">0</data>
+    </node>
+    <node id="1356">
+      <data key="d0">2</data>
+    </node>
+    <node id="1353">
+      <data key="d0">0</data>
+    </node>
+    <node id="1355">
+      <data key="d0">2</data>
+    </node>
+    <edge source="1332" target="1333">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1332" target="1341">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1333" target="1334">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1341" target="1340">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1341" target="1342">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1334" target="1335">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1334" target="1339">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1335" target="1336">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1335" target="1354">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="1339" target="1338">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1339" target="1340">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1336" target="1337">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1336" target="1351">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="1354" target="1353">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="1337" target="1338">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1351" target="1352">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="1351" target="1356">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="1338" target="1347">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1347" target="1346">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1340" target="1345">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1345" target="1344">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1345" target="1346">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1342" target="1343">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1343" target="1344">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1344" target="1348">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="1348" target="1349">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="1348" target="1350">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="1352" target="1353">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="1352" target="1355">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>

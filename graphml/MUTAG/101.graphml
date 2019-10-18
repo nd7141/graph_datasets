@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="edge_label" attr.type="string" for="edge" id="d1" />
+  <key attr.name="node_label" attr.type="string" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="1923">
+      <data key="d0">0</data>
+    </node>
+    <node id="1924">
+      <data key="d0">0</data>
+    </node>
+    <node id="1916">
+      <data key="d0">0</data>
+    </node>
+    <node id="1925">
+      <data key="d0">0</data>
+    </node>
+    <node id="1926">
+      <data key="d0">0</data>
+    </node>
+    <node id="1914">
+      <data key="d0">0</data>
+    </node>
+    <node id="1927">
+      <data key="d0">0</data>
+    </node>
+    <node id="1928">
+      <data key="d0">0</data>
+    </node>
+    <node id="1929">
+      <data key="d0">0</data>
+    </node>
+    <node id="1913">
+      <data key="d0">0</data>
+    </node>
+    <node id="1910">
+      <data key="d0">0</data>
+    </node>
+    <node id="1920">
+      <data key="d0">1</data>
+    </node>
+    <node id="1911">
+      <data key="d0">0</data>
+    </node>
+    <node id="1912">
+      <data key="d0">0</data>
+    </node>
+    <node id="1919">
+      <data key="d0">2</data>
+    </node>
+    <node id="1918">
+      <data key="d0">0</data>
+    </node>
+    <node id="1915">
+      <data key="d0">0</data>
+    </node>
+    <node id="1917">
+      <data key="d0">0</data>
+    </node>
+    <node id="1921">
+      <data key="d0">2</data>
+    </node>
+    <node id="1922">
+      <data key="d0">2</data>
+    </node>
+    <edge source="1923" target="1924">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1923" target="1916">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1924" target="1925">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1916" target="1915">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1925" target="1926">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1925" target="1914">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1926" target="1927">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1914" target="1913">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1914" target="1915">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1927" target="1928">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1928" target="1929">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1928" target="1913">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1929" target="1910">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1929" target="1920">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="1913" target="1912">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1910" target="1911">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1920" target="1921">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="1920" target="1922">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="1911" target="1912">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1911" target="1919">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="1912" target="1918">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1918" target="1917">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1915" target="1917">
+      <data key="d1">0</data>
+    </edge>
+  </graph>
+</graphml>

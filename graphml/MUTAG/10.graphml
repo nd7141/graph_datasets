@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="edge_label" attr.type="string" for="edge" id="d1" />
+  <key attr.name="node_label" attr.type="string" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="179">
+      <data key="d0">0</data>
+    </node>
+    <node id="180">
+      <data key="d0">0</data>
+    </node>
+    <node id="184">
+      <data key="d0">0</data>
+    </node>
+    <node id="181">
+      <data key="d0">0</data>
+    </node>
+    <node id="182">
+      <data key="d0">0</data>
+    </node>
+    <node id="183">
+      <data key="d0">0</data>
+    </node>
+    <node id="191">
+      <data key="d0">0</data>
+    </node>
+    <node id="185">
+      <data key="d0">0</data>
+    </node>
+    <node id="186">
+      <data key="d0">0</data>
+    </node>
+    <node id="190">
+      <data key="d0">0</data>
+    </node>
+    <node id="187">
+      <data key="d0">0</data>
+    </node>
+    <node id="188">
+      <data key="d0">0</data>
+    </node>
+    <node id="189">
+      <data key="d0">0</data>
+    </node>
+    <node id="198">
+      <data key="d0">1</data>
+    </node>
+    <node id="194">
+      <data key="d0">0</data>
+    </node>
+    <node id="192">
+      <data key="d0">0</data>
+    </node>
+    <node id="193">
+      <data key="d0">0</data>
+    </node>
+    <node id="195">
+      <data key="d0">1</data>
+    </node>
+    <node id="196">
+      <data key="d0">2</data>
+    </node>
+    <node id="197">
+      <data key="d0">2</data>
+    </node>
+    <node id="199">
+      <data key="d0">2</data>
+    </node>
+    <node id="200">
+      <data key="d0">2</data>
+    </node>
+    <edge source="179" target="180">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="179" target="184">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="180" target="181">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="184" target="183">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="181" target="182">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="182" target="183">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="182" target="191">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="183" target="185">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="191" target="190">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="191" target="192">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="185" target="186">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="185" target="190">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="186" target="187">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="190" target="189">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="187" target="188">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="188" target="189">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="188" target="198">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="189" target="194">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="198" target="199">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="198" target="200">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="194" target="193">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="192" target="193">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="193" target="195">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="195" target="196">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="195" target="197">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>

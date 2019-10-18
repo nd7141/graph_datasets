@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="edge_label" attr.type="string" for="edge" id="d1" />
+  <key attr.name="node_label" attr.type="string" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="1989">
+      <data key="d0">0</data>
+    </node>
+    <node id="1990">
+      <data key="d0">0</data>
+    </node>
+    <node id="1994">
+      <data key="d0">0</data>
+    </node>
+    <node id="1991">
+      <data key="d0">0</data>
+    </node>
+    <node id="1986">
+      <data key="d0">1</data>
+    </node>
+    <node id="1992">
+      <data key="d0">0</data>
+    </node>
+    <node id="1985">
+      <data key="d0">5</data>
+    </node>
+    <node id="1993">
+      <data key="d0">0</data>
+    </node>
+    <node id="1982">
+      <data key="d0">2</data>
+    </node>
+    <node id="1995">
+      <data key="d0">2</data>
+    </node>
+    <node id="1996">
+      <data key="d0">0</data>
+    </node>
+    <node id="1997">
+      <data key="d0">0</data>
+    </node>
+    <node id="1981">
+      <data key="d0">0</data>
+    </node>
+    <node id="1998">
+      <data key="d0">0</data>
+    </node>
+    <node id="1979">
+      <data key="d0">0</data>
+    </node>
+    <node id="1984">
+      <data key="d0">5</data>
+    </node>
+    <node id="1980">
+      <data key="d0">0</data>
+    </node>
+    <node id="1983">
+      <data key="d0">5</data>
+    </node>
+    <node id="1987">
+      <data key="d0">2</data>
+    </node>
+    <node id="1988">
+      <data key="d0">2</data>
+    </node>
+    <edge source="1989" target="1990">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1989" target="1994">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1990" target="1991">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1990" target="1986">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="1994" target="1993">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1994" target="1995">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="1991" target="1992">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1991" target="1985">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="1986" target="1987">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="1986" target="1988">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="1992" target="1993">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1993" target="1982">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="1982" target="1981">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="1995" target="1996">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="1996" target="1997">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1996" target="1981">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1997" target="1998">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1981" target="1980">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1998" target="1979">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1998" target="1984">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="1979" target="1980">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1979" target="1983">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>

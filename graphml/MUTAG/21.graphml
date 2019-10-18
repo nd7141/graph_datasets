@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="edge_label" attr.type="string" for="edge" id="d1" />
+  <key attr.name="node_label" attr.type="string" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="382">
+      <data key="d0">0</data>
+    </node>
+    <node id="383">
+      <data key="d0">0</data>
+    </node>
+    <node id="387">
+      <data key="d0">0</data>
+    </node>
+    <node id="384">
+      <data key="d0">0</data>
+    </node>
+    <node id="385">
+      <data key="d0">0</data>
+    </node>
+    <node id="386">
+      <data key="d0">0</data>
+    </node>
+    <node id="399">
+      <data key="d0">0</data>
+    </node>
+    <node id="388">
+      <data key="d0">0</data>
+    </node>
+    <node id="389">
+      <data key="d0">0</data>
+    </node>
+    <node id="390">
+      <data key="d0">0</data>
+    </node>
+    <node id="398">
+      <data key="d0">0</data>
+    </node>
+    <node id="391">
+      <data key="d0">0</data>
+    </node>
+    <node id="392">
+      <data key="d0">0</data>
+    </node>
+    <node id="393">
+      <data key="d0">0</data>
+    </node>
+    <node id="397">
+      <data key="d0">0</data>
+    </node>
+    <node id="394">
+      <data key="d0">0</data>
+    </node>
+    <node id="395">
+      <data key="d0">0</data>
+    </node>
+    <node id="396">
+      <data key="d0">0</data>
+    </node>
+    <node id="402">
+      <data key="d0">1</data>
+    </node>
+    <node id="401">
+      <data key="d0">0</data>
+    </node>
+    <node id="400">
+      <data key="d0">0</data>
+    </node>
+    <node id="403">
+      <data key="d0">2</data>
+    </node>
+    <node id="404">
+      <data key="d0">2</data>
+    </node>
+    <edge source="382" target="383">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="382" target="387">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="383" target="384">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="387" target="386">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="384" target="385">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="385" target="386">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="385" target="399">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="386" target="388">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="399" target="398">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="399" target="400">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="388" target="389">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="389" target="390">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="389" target="398">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="390" target="391">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="398" target="397">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="391" target="392">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="392" target="393">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="392" target="397">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="393" target="394">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="397" target="396">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="394" target="395">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="395" target="396">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="395" target="402">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="396" target="401">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="402" target="403">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="402" target="404">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="401" target="400">
+      <data key="d1">0</data>
+    </edge>
+  </graph>
+</graphml>

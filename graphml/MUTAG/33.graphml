@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="edge_label" attr.type="string" for="edge" id="d1" />
+  <key attr.name="node_label" attr.type="string" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="613">
+      <data key="d0">0</data>
+    </node>
+    <node id="614">
+      <data key="d0">0</data>
+    </node>
+    <node id="618">
+      <data key="d0">0</data>
+    </node>
+    <node id="615">
+      <data key="d0">0</data>
+    </node>
+    <node id="632">
+      <data key="d0">1</data>
+    </node>
+    <node id="616">
+      <data key="d0">0</data>
+    </node>
+    <node id="617">
+      <data key="d0">0</data>
+    </node>
+    <node id="631">
+      <data key="d0">0</data>
+    </node>
+    <node id="622">
+      <data key="d0">0</data>
+    </node>
+    <node id="619">
+      <data key="d0">0</data>
+    </node>
+    <node id="620">
+      <data key="d0">0</data>
+    </node>
+    <node id="621">
+      <data key="d0">0</data>
+    </node>
+    <node id="626">
+      <data key="d0">0</data>
+    </node>
+    <node id="623">
+      <data key="d0">0</data>
+    </node>
+    <node id="624">
+      <data key="d0">0</data>
+    </node>
+    <node id="630">
+      <data key="d0">0</data>
+    </node>
+    <node id="625">
+      <data key="d0">0</data>
+    </node>
+    <node id="627">
+      <data key="d0">1</data>
+    </node>
+    <node id="628">
+      <data key="d0">2</data>
+    </node>
+    <node id="629">
+      <data key="d0">2</data>
+    </node>
+    <node id="633">
+      <data key="d0">2</data>
+    </node>
+    <node id="634">
+      <data key="d0">2</data>
+    </node>
+    <edge source="613" target="614">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="613" target="618">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="614" target="615">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="614" target="632">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="618" target="617">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="618" target="619">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="615" target="616">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="632" target="633">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="632" target="634">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="616" target="617">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="616" target="631">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="617" target="622">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="631" target="630">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="622" target="621">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="622" target="623">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="619" target="620">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="620" target="621">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="621" target="626">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="626" target="625">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="623" target="624">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="623" target="630">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="624" target="625">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="625" target="627">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="627" target="628">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="627" target="629">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>

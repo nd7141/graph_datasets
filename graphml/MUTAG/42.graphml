@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="edge_label" attr.type="string" for="edge" id="d1" />
+  <key attr.name="node_label" attr.type="string" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="799">
+      <data key="d0">0</data>
+    </node>
+    <node id="800">
+      <data key="d0">0</data>
+    </node>
+    <node id="804">
+      <data key="d0">0</data>
+    </node>
+    <node id="801">
+      <data key="d0">0</data>
+    </node>
+    <node id="802">
+      <data key="d0">0</data>
+    </node>
+    <node id="796">
+      <data key="d0">1</data>
+    </node>
+    <node id="803">
+      <data key="d0">0</data>
+    </node>
+    <node id="805">
+      <data key="d0">0</data>
+    </node>
+    <node id="806">
+      <data key="d0">0</data>
+    </node>
+    <node id="810">
+      <data key="d0">0</data>
+    </node>
+    <node id="807">
+      <data key="d0">0</data>
+    </node>
+    <node id="808">
+      <data key="d0">0</data>
+    </node>
+    <node id="809">
+      <data key="d0">0</data>
+    </node>
+    <node id="793">
+      <data key="d0">1</data>
+    </node>
+    <node id="811">
+      <data key="d0">1</data>
+    </node>
+    <node id="812">
+      <data key="d0">2</data>
+    </node>
+    <node id="792">
+      <data key="d0">2</data>
+    </node>
+    <node id="794">
+      <data key="d0">2</data>
+    </node>
+    <node id="795">
+      <data key="d0">2</data>
+    </node>
+    <node id="797">
+      <data key="d0">2</data>
+    </node>
+    <node id="798">
+      <data key="d0">2</data>
+    </node>
+    <edge source="799" target="800">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="799" target="804">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="800" target="801">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="804" target="803">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="804" target="805">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="801" target="802">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="801" target="796">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="802" target="803">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="796" target="797">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="796" target="798">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="805" target="806">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="805" target="810">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="806" target="807">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="810" target="809">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="810" target="811">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="807" target="808">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="808" target="809">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="808" target="793">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="793" target="794">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="793" target="795">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="811" target="812">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="811" target="792">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>

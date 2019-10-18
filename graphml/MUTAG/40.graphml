@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="edge_label" attr.type="string" for="edge" id="d1" />
+  <key attr.name="node_label" attr.type="string" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="759">
+      <data key="d0">0</data>
+    </node>
+    <node id="760">
+      <data key="d0">0</data>
+    </node>
+    <node id="764">
+      <data key="d0">0</data>
+    </node>
+    <node id="761">
+      <data key="d0">0</data>
+    </node>
+    <node id="762">
+      <data key="d0">0</data>
+    </node>
+    <node id="775">
+      <data key="d0">2</data>
+    </node>
+    <node id="763">
+      <data key="d0">0</data>
+    </node>
+    <node id="768">
+      <data key="d0">2</data>
+    </node>
+    <node id="765">
+      <data key="d0">1</data>
+    </node>
+    <node id="766">
+      <data key="d0">2</data>
+    </node>
+    <node id="767">
+      <data key="d0">2</data>
+    </node>
+    <node id="769">
+      <data key="d0">0</data>
+    </node>
+    <node id="770">
+      <data key="d0">0</data>
+    </node>
+    <node id="774">
+      <data key="d0">0</data>
+    </node>
+    <node id="771">
+      <data key="d0">0</data>
+    </node>
+    <node id="772">
+      <data key="d0">0</data>
+    </node>
+    <node id="777">
+      <data key="d0">5</data>
+    </node>
+    <node id="773">
+      <data key="d0">0</data>
+    </node>
+    <node id="776">
+      <data key="d0">5</data>
+    </node>
+    <edge source="759" target="760">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="759" target="764">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="760" target="761">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="764" target="763">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="764" target="765">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="761" target="762">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="761" target="775">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="762" target="763">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="762" target="768">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="775" target="774">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="768" target="769">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="765" target="766">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="765" target="767">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="769" target="770">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="769" target="774">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="770" target="771">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="774" target="773">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="771" target="772">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="771" target="777">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="772" target="773">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="772" target="776">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>

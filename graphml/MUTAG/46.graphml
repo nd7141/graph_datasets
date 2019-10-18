@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="edge_label" attr.type="string" for="edge" id="d1" />
+  <key attr.name="node_label" attr.type="string" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="886">
+      <data key="d0">0</data>
+    </node>
+    <node id="887">
+      <data key="d0">0</data>
+    </node>
+    <node id="880">
+      <data key="d0">0</data>
+    </node>
+    <node id="888">
+      <data key="d0">0</data>
+    </node>
+    <node id="889">
+      <data key="d0">0</data>
+    </node>
+    <node id="885">
+      <data key="d0">1</data>
+    </node>
+    <node id="890">
+      <data key="d0">0</data>
+    </node>
+    <node id="884">
+      <data key="d0">2</data>
+    </node>
+    <node id="881">
+      <data key="d0">1</data>
+    </node>
+    <node id="882">
+      <data key="d0">2</data>
+    </node>
+    <node id="883">
+      <data key="d0">2</data>
+    </node>
+    <edge source="886" target="887">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="886" target="880">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="887" target="888">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="880" target="890">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="880" target="881">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="888" target="889">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="888" target="885">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="889" target="890">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="889" target="884">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="881" target="882">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="881" target="883">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>

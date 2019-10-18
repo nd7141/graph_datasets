@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="edge_label" attr.type="string" for="edge" id="d1" />
+  <key attr.name="node_label" attr.type="string" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="1740">
+      <data key="d0">0</data>
+    </node>
+    <node id="1741">
+      <data key="d0">0</data>
+    </node>
+    <node id="1745">
+      <data key="d0">0</data>
+    </node>
+    <node id="1742">
+      <data key="d0">0</data>
+    </node>
+    <node id="1743">
+      <data key="d0">0</data>
+    </node>
+    <node id="1744">
+      <data key="d0">0</data>
+    </node>
+    <node id="1749">
+      <data key="d0">0</data>
+    </node>
+    <node id="1746">
+      <data key="d0">0</data>
+    </node>
+    <node id="1747">
+      <data key="d0">0</data>
+    </node>
+    <node id="1748">
+      <data key="d0">0</data>
+    </node>
+    <node id="1753">
+      <data key="d0">0</data>
+    </node>
+    <node id="1750">
+      <data key="d0">0</data>
+    </node>
+    <node id="1751">
+      <data key="d0">0</data>
+    </node>
+    <node id="1752">
+      <data key="d0">0</data>
+    </node>
+    <node id="1758">
+      <data key="d0">1</data>
+    </node>
+    <node id="1757">
+      <data key="d0">0</data>
+    </node>
+    <node id="1754">
+      <data key="d0">0</data>
+    </node>
+    <node id="1755">
+      <data key="d0">0</data>
+    </node>
+    <node id="1756">
+      <data key="d0">0</data>
+    </node>
+    <node id="1759">
+      <data key="d0">2</data>
+    </node>
+    <node id="1760">
+      <data key="d0">2</data>
+    </node>
+    <edge source="1740" target="1741">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1740" target="1745">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1741" target="1742">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1745" target="1744">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1742" target="1743">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1743" target="1744">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1743" target="1749">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1744" target="1746">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1749" target="1748">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1749" target="1750">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1746" target="1747">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1747" target="1748">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1748" target="1753">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1753" target="1752">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1753" target="1754">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1750" target="1751">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1751" target="1752">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1751" target="1758">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="1752" target="1757">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1758" target="1759">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="1758" target="1760">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="1757" target="1756">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1754" target="1755">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1755" target="1756">
+      <data key="d1">0</data>
+    </edge>
+  </graph>
+</graphml>

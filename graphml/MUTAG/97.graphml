@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="edge_label" attr.type="string" for="edge" id="d1" />
+  <key attr.name="node_label" attr.type="string" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="1845">
+      <data key="d0">0</data>
+    </node>
+    <node id="1846">
+      <data key="d0">0</data>
+    </node>
+    <node id="1850">
+      <data key="d0">0</data>
+    </node>
+    <node id="1847">
+      <data key="d0">0</data>
+    </node>
+    <node id="1848">
+      <data key="d0">0</data>
+    </node>
+    <node id="1857">
+      <data key="d0">1</data>
+    </node>
+    <node id="1849">
+      <data key="d0">0</data>
+    </node>
+    <node id="1854">
+      <data key="d0">1</data>
+    </node>
+    <node id="1851">
+      <data key="d0">1</data>
+    </node>
+    <node id="1852">
+      <data key="d0">2</data>
+    </node>
+    <node id="1853">
+      <data key="d0">2</data>
+    </node>
+    <node id="1855">
+      <data key="d0">2</data>
+    </node>
+    <node id="1856">
+      <data key="d0">2</data>
+    </node>
+    <node id="1858">
+      <data key="d0">1</data>
+    </node>
+    <edge source="1845" target="1846">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1845" target="1850">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1846" target="1847">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1850" target="1849">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1850" target="1851">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="1847" target="1848">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1847" target="1857">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="1848" target="1849">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="1848" target="1854">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="1857" target="1858">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="1854" target="1855">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="1854" target="1856">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="1851" target="1852">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="1851" target="1853">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>

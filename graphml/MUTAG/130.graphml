@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="edge_label" attr.type="string" for="edge" id="d1" />
+  <key attr.name="node_label" attr.type="string" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="2456">
+      <data key="d0">0</data>
+    </node>
+    <node id="2457">
+      <data key="d0">0</data>
+    </node>
+    <node id="2458">
+      <data key="d0">0</data>
+    </node>
+    <node id="2466">
+      <data key="d0">1</data>
+    </node>
+    <node id="2459">
+      <data key="d0">0</data>
+    </node>
+    <node id="2460">
+      <data key="d0">0</data>
+    </node>
+    <node id="2461">
+      <data key="d0">0</data>
+    </node>
+    <node id="2465">
+      <data key="d0">0</data>
+    </node>
+    <node id="2462">
+      <data key="d0">0</data>
+    </node>
+    <node id="2463">
+      <data key="d0">0</data>
+    </node>
+    <node id="2464">
+      <data key="d0">0</data>
+    </node>
+    <node id="2467">
+      <data key="d0">1</data>
+    </node>
+    <node id="2454">
+      <data key="d0">2</data>
+    </node>
+    <node id="2455">
+      <data key="d0">2</data>
+    </node>
+    <edge source="2456" target="2457">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="2457" target="2458">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="2457" target="2466">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="2458" target="2459">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="2466" target="2465">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="2459" target="2460">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="2460" target="2461">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="2460" target="2465">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="2461" target="2462">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="2465" target="2464">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="2462" target="2463">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="2463" target="2464">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="2464" target="2467">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="2467" target="2454">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="2467" target="2455">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>

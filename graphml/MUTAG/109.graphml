@@ -1,0 +1,133 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="edge_label" attr.type="string" for="edge" id="d1" />
+  <key attr.name="node_label" attr.type="string" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="2060">
+      <data key="d0">0</data>
+    </node>
+    <node id="2061">
+      <data key="d0">0</data>
+    </node>
+    <node id="2045">
+      <data key="d0">0</data>
+    </node>
+    <node id="2062">
+      <data key="d0">0</data>
+    </node>
+    <node id="2043">
+      <data key="d0">0</data>
+    </node>
+    <node id="2056">
+      <data key="d0">1</data>
+    </node>
+    <node id="2044">
+      <data key="d0">0</data>
+    </node>
+    <node id="2049">
+      <data key="d0">1</data>
+    </node>
+    <node id="2046">
+      <data key="d0">1</data>
+    </node>
+    <node id="2047">
+      <data key="d0">2</data>
+    </node>
+    <node id="2048">
+      <data key="d0">2</data>
+    </node>
+    <node id="2050">
+      <data key="d0">0</data>
+    </node>
+    <node id="2051">
+      <data key="d0">0</data>
+    </node>
+    <node id="2055">
+      <data key="d0">0</data>
+    </node>
+    <node id="2052">
+      <data key="d0">0</data>
+    </node>
+    <node id="2053">
+      <data key="d0">0</data>
+    </node>
+    <node id="2054">
+      <data key="d0">0</data>
+    </node>
+    <node id="2057">
+      <data key="d0">1</data>
+    </node>
+    <node id="2058">
+      <data key="d0">2</data>
+    </node>
+    <node id="2059">
+      <data key="d0">2</data>
+    </node>
+    <edge source="2060" target="2061">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="2060" target="2045">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="2061" target="2062">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="2045" target="2044">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="2045" target="2046">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="2062" target="2043">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="2062" target="2056">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="2043" target="2044">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="2043" target="2049">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="2056" target="2055">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="2049" target="2050">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="2046" target="2047">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="2046" target="2048">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="2050" target="2051">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="2050" target="2055">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="2051" target="2052">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="2055" target="2054">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="2052" target="2053">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="2053" target="2054">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="2053" target="2057">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="2057" target="2058">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="2057" target="2059">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>

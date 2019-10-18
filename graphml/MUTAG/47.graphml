@@ -1,0 +1,148 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="edge_label" attr.type="string" for="edge" id="d1" />
+  <key attr.name="node_label" attr.type="string" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="891">
+      <data key="d0">0</data>
+    </node>
+    <node id="892">
+      <data key="d0">0</data>
+    </node>
+    <node id="895">
+      <data key="d0">0</data>
+    </node>
+    <node id="893">
+      <data key="d0">0</data>
+    </node>
+    <node id="894">
+      <data key="d0">2</data>
+    </node>
+    <node id="911">
+      <data key="d0">1</data>
+    </node>
+    <node id="896">
+      <data key="d0">0</data>
+    </node>
+    <node id="897">
+      <data key="d0">0</data>
+    </node>
+    <node id="898">
+      <data key="d0">0</data>
+    </node>
+    <node id="899">
+      <data key="d0">2</data>
+    </node>
+    <node id="900">
+      <data key="d0">1</data>
+    </node>
+    <node id="901">
+      <data key="d0">1</data>
+    </node>
+    <node id="902">
+      <data key="d0">0</data>
+    </node>
+    <node id="903">
+      <data key="d0">0</data>
+    </node>
+    <node id="904">
+      <data key="d0">0</data>
+    </node>
+    <node id="907">
+      <data key="d0">2</data>
+    </node>
+    <node id="905">
+      <data key="d0">0</data>
+    </node>
+    <node id="906">
+      <data key="d0">0</data>
+    </node>
+    <node id="908">
+      <data key="d0">1</data>
+    </node>
+    <node id="909">
+      <data key="d0">2</data>
+    </node>
+    <node id="910">
+      <data key="d0">2</data>
+    </node>
+    <node id="912">
+      <data key="d0">2</data>
+    </node>
+    <node id="913">
+      <data key="d0">2</data>
+    </node>
+    <edge source="891" target="892">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="891" target="895">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="892" target="893">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="895" target="894">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="895" target="896">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="893" target="894">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="893" target="911">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="911" target="912">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="911" target="913">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="896" target="897">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="897" target="898">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="898" target="899">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="898" target="900">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="900" target="901">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="901" target="902">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="902" target="903">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="903" target="904">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="903" target="907">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="904" target="905">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="907" target="906">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="905" target="906">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="906" target="908">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="908" target="909">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="908" target="910">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>

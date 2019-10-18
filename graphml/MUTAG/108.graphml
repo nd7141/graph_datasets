@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="edge_label" attr.type="string" for="edge" id="d1" />
+  <key attr.name="node_label" attr.type="string" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="2028">
+      <data key="d0">0</data>
+    </node>
+    <node id="2029">
+      <data key="d0">0</data>
+    </node>
+    <node id="2033">
+      <data key="d0">0</data>
+    </node>
+    <node id="2030">
+      <data key="d0">0</data>
+    </node>
+    <node id="2031">
+      <data key="d0">0</data>
+    </node>
+    <node id="2027">
+      <data key="d0">1</data>
+    </node>
+    <node id="2032">
+      <data key="d0">0</data>
+    </node>
+    <node id="2034">
+      <data key="d0">0</data>
+    </node>
+    <node id="2035">
+      <data key="d0">0</data>
+    </node>
+    <node id="2039">
+      <data key="d0">0</data>
+    </node>
+    <node id="2036">
+      <data key="d0">0</data>
+    </node>
+    <node id="2037">
+      <data key="d0">0</data>
+    </node>
+    <node id="2038">
+      <data key="d0">0</data>
+    </node>
+    <node id="2040">
+      <data key="d0">1</data>
+    </node>
+    <node id="2041">
+      <data key="d0">2</data>
+    </node>
+    <node id="2042">
+      <data key="d0">2</data>
+    </node>
+    <edge source="2028" target="2029">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="2028" target="2033">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="2029" target="2030">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="2033" target="2032">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="2033" target="2034">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="2030" target="2031">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="2030" target="2027">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="2031" target="2032">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="2034" target="2035">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="2034" target="2039">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="2035" target="2036">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="2039" target="2038">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="2036" target="2037">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="2037" target="2038">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="2037" target="2040">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="2040" target="2041">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="2040" target="2042">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>

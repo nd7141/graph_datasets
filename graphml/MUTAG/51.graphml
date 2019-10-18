@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="edge_label" attr.type="string" for="edge" id="d1" />
+  <key attr.name="node_label" attr.type="string" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="971">
+      <data key="d0">0</data>
+    </node>
+    <node id="972">
+      <data key="d0">0</data>
+    </node>
+    <node id="976">
+      <data key="d0">0</data>
+    </node>
+    <node id="973">
+      <data key="d0">0</data>
+    </node>
+    <node id="974">
+      <data key="d0">0</data>
+    </node>
+    <node id="975">
+      <data key="d0">0</data>
+    </node>
+    <node id="983">
+      <data key="d0">0</data>
+    </node>
+    <node id="977">
+      <data key="d0">0</data>
+    </node>
+    <node id="978">
+      <data key="d0">0</data>
+    </node>
+    <node id="982">
+      <data key="d0">0</data>
+    </node>
+    <node id="979">
+      <data key="d0">0</data>
+    </node>
+    <node id="980">
+      <data key="d0">0</data>
+    </node>
+    <node id="981">
+      <data key="d0">0</data>
+    </node>
+    <node id="966">
+      <data key="d0">0</data>
+    </node>
+    <node id="984">
+      <data key="d0">0</data>
+    </node>
+    <node id="985">
+      <data key="d0">0</data>
+    </node>
+    <node id="968">
+      <data key="d0">1</data>
+    </node>
+    <node id="967">
+      <data key="d0">2</data>
+    </node>
+    <node id="969">
+      <data key="d0">2</data>
+    </node>
+    <node id="970">
+      <data key="d0">2</data>
+    </node>
+    <edge source="971" target="972">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="971" target="976">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="972" target="973">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="976" target="975">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="973" target="974">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="974" target="975">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="974" target="983">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="975" target="977">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="983" target="982">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="983" target="984">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="977" target="978">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="977" target="982">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="978" target="979">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="982" target="981">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="979" target="980">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="980" target="981">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="981" target="966">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="966" target="985">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="984" target="985">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="984" target="968">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="985" target="967">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="968" target="969">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="968" target="970">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>

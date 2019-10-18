@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="edge_label" attr.type="string" for="edge" id="d1" />
+  <key attr.name="node_label" attr.type="string" for="node" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="266">
+      <data key="d0">0</data>
+    </node>
+    <node id="267">
+      <data key="d0">0</data>
+    </node>
+    <node id="271">
+      <data key="d0">0</data>
+    </node>
+    <node id="268">
+      <data key="d0">0</data>
+    </node>
+    <node id="269">
+      <data key="d0">0</data>
+    </node>
+    <node id="270">
+      <data key="d0">0</data>
+    </node>
+    <node id="278">
+      <data key="d0">0</data>
+    </node>
+    <node id="272">
+      <data key="d0">0</data>
+    </node>
+    <node id="273">
+      <data key="d0">0</data>
+    </node>
+    <node id="277">
+      <data key="d0">0</data>
+    </node>
+    <node id="274">
+      <data key="d0">0</data>
+    </node>
+    <node id="275">
+      <data key="d0">0</data>
+    </node>
+    <node id="280">
+      <data key="d0">1</data>
+    </node>
+    <node id="276">
+      <data key="d0">0</data>
+    </node>
+    <node id="279">
+      <data key="d0">2</data>
+    </node>
+    <node id="281">
+      <data key="d0">2</data>
+    </node>
+    <node id="282">
+      <data key="d0">2</data>
+    </node>
+    <edge source="266" target="267">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="266" target="271">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="267" target="268">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="271" target="270">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="268" target="269">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="269" target="270">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="269" target="278">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="270" target="272">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="278" target="277">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="278" target="279">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="272" target="273">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="272" target="277">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="273" target="274">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="277" target="276">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="274" target="275">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="274" target="280">
+      <data key="d1">1</data>
+    </edge>
+    <edge source="275" target="276">
+      <data key="d1">0</data>
+    </edge>
+    <edge source="280" target="281">
+      <data key="d1">2</data>
+    </edge>
+    <edge source="280" target="282">
+      <data key="d1">1</data>
+    </edge>
+  </graph>
+</graphml>
