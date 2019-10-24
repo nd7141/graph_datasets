@@ -33,3 +33,6 @@ We can also save graphs in ``edgelist`` format, which purely keeps topology of a
     # save edgelist
     output = 'edgelist/'
     dataset.save_graphs_edgelist(graphs, output + d + '/') 
+
+## Data Set Stats
+![image](https://user-images.githubusercontent.com/4607709/67501980-7c6b4980-f685-11e9-850a-eb7fcaa5d605.png)
