@@ -1,7 +1,7 @@
 ## Graph Classification Data Sets
 
 This repo contains manually curated list of graph datasets for evaluation graph classification methods. 
-These data sets are results of removing isomorphic copies of graphs from the original data sets. 
+These data sets are results of removing isomorphic copies of graphs from the original data sets. There are at the moment 54 data sets. 
 
 ### Getting graphs for a data set
 All datasets are zipped. There is a class ``GraphDataset`` that extracts, transforms, and save graphs to necessary formats.
