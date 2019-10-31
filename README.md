@@ -6,14 +6,14 @@ These data sets are results of removing isomorphic copies of graphs from the ori
 ### Citation
 If you found our work useful, please consider citing our work. 
 
-@misc{ivanov2019understanding,
-    title={Understanding Isomorphism Bias in Graph Data Sets},
-    author={Sergei Ivanov and Sergei Sviridov and Evgeny Burnaev},
-    year={2019},
-    eprint={1910.12091},
-    archivePrefix={arXiv},
-    primaryClass={cs.LG}
-}
+    @misc{ivanov2019understanding,
+        title={Understanding Isomorphism Bias in Graph Data Sets},
+        author={Sergei Ivanov and Sergei Sviridov and Evgeny Burnaev},
+        year={2019},
+        eprint={1910.12091},
+        archivePrefix={arXiv},
+        primaryClass={cs.LG}
+    }
 
 ### Getting graphs for a data set
 All datasets are zipped. There is a class ``GraphDataset`` that extracts, transforms, and save graphs to necessary formats.
@@ -45,6 +45,24 @@ We can also save graphs in ``edgelist`` format, which purely keeps topology of a
     # save edgelist
     output = 'edgelist/'
     dataset.save_graphs_edgelist(graphs, output + d + '/') 
+    
+### Format of Data Sets
+**Compact** format of  data sets is described in https://ls11-www.cs.tu-dortmund.de/staff/morris/graphkerneldatasets and is efficient for storing large number of graphs. Each data set contains necessarily three files with `_A.txt`, `_graph_indicator.txt`, and `_graph_labels.txt`. 
 
-## Data Set Stats
+`_A.txt` is edge list of all graphs in a data set. All nodes consecutive, and no node_ids are the same for two graphs. 
+
+`_graph_indicator.txt` contains mapping between node_id and graph_id, so that lines correspond to nodes and content of lines correspond to graph. For example, if line 35 has 2, it means that node_id = 35 belongs to graph 2. 
+
+Finally, `_graph_labels.txt` contains mapping between graph_id and its target label. graph_id corresponds to a line in a final, and target label corresponds to the content of a line. For example if line 45 contains 2, it means that graph 45 has label 2. 
+
+Additionally, folder may include `node/edge_labels/attributes.txt` files that provide additional information about the graphs. 
+
+**Graphml** format contains each graph in its separate file in graphml format, that includes all meta-information about the graphs. 
+
+**Edgelist** format contains each graph in its seperate file that provides edge list, without any label/attribute information. 
+
+In graphml and edgelist formats, the target labels are not generated again and one can use `_graph_labels.txt` to see the mapping. 
+
+
+### Data Set Stats
 ![image](https://user-images.githubusercontent.com/4607709/67501980-7c6b4980-f685-11e9-850a-eb7fcaa5d605.png)
