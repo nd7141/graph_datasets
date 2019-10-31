@@ -3,6 +3,18 @@
 This repo contains manually curated list of graph datasets for evaluation graph classification methods. 
 These data sets are results of removing isomorphic copies of graphs from the original data sets. There are at the moment 54 data sets. The code to generate data sets is available here (https://github.com/nd7141/iso_bias).
 
+### Citation
+If you found our work useful, please consider citing our work. 
+
+@misc{ivanov2019understanding,
+    title={Understanding Isomorphism Bias in Graph Data Sets},
+    author={Sergei Ivanov and Sergei Sviridov and Evgeny Burnaev},
+    year={2019},
+    eprint={1910.12091},
+    archivePrefix={arXiv},
+    primaryClass={cs.LG}
+}
+
 ### Getting graphs for a data set
 All datasets are zipped. There is a class ``GraphDataset`` that extracts, transforms, and save graphs to necessary formats.
 
