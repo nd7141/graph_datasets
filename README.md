@@ -46,6 +46,14 @@ We can also save graphs in ``edgelist`` format, which purely keeps topology of a
     output = 'edgelist/'
     dataset.save_graphs_edgelist(graphs, output + d + '/') 
     
+### Data Sets in PyTorch-Geometric 
+You can find the same data sets in [the PyTorch-Geometric library](https://pytorch-geometric.readthedocs.io/en/latest/modules/datasets.html#torch_geometric.datasets.TUDataset). To get clean version of the data sets, use parameter `cleaned=True` in `TUDataset` class. For example, to train a model on MUTAG data set: 
+
+    root = './'
+    dataset = TUDataset(root, 'MUTAG', cleaned=True)
+    print(dataset)
+    >>> MUTAG(135)
+    
 ### Format of Data Sets
 **Compact** format of  data sets is described in https://ls11-www.cs.tu-dortmund.de/staff/morris/graphkerneldatasets and is efficient for storing large number of graphs. Each data set contains necessarily three files with `_A.txt`, `_graph_indicator.txt`, and `_graph_labels.txt`. 
 
