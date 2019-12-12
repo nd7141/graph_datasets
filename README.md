@@ -3,6 +3,9 @@
 This repo contains manually curated list of graph datasets for evaluation graph classification methods. 
 These data sets are results of removing isomorphic copies of graphs from the original data sets. There are at the moment 54 data sets. The code to generate data sets is available here (https://github.com/nd7141/iso_bias).
 
+To download a particular data set, append a suffix with the name of data set (e.g. MUTAG.zip) to https://raw.githubusercontent.com/nd7141/graph_datasets/master/datasets 
+For example to download MUTAG use the following link: https://raw.githubusercontent.com/nd7141/graph_datasets/master/datasets/MUTAG.zip
+
 ### Citation
 If you found our work useful, please consider citing our work. 
 
